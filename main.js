@@ -1,0 +1,1 @@
+setTimeout(function(){ window.location="login.html" }, 9000);
